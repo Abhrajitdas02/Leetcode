@@ -58,7 +58,7 @@ Contributions are appreciated! If you'd like to contribute your solutions or imp
 
 ## Contact
 
-If you have any questions, suggestions, or just want to connect, you can reach me at [your.email@example.com](abhrajitdas12245@gmail.com).
+If you have any questions, suggestions, or just want to connect, you can reach me at abhrajitdas12245@gmail.com.
 
 Happy coding! 🚀
 
