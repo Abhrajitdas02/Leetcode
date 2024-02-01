@@ -1,26 +1,40 @@
+// class Solution {
+// private:
+//    int f(int ind, int buy, int cap, vector<int>&prices,int n, vector<vector<vector<int>>>&dp){
+//        if(ind == n || cap == 0) return 0;
+        
+//        if(dp[i][])
+
+//        if(buy == 1){
+//            return max(-prices[ind] + f(ind+1 , 0, cap,prices, n), 0 + f(ind +1, 1, cap, prices, n));
+//        }
+//        else
+//       return max(prices[ind] + f(ind +1, 1, cap-1,prices, n), 0 + f(ind+1, 0 ,cap, prices, n));
+//    }
+// class Solution {
+// public:
+//     int maxProfit(vector<int>& prices) {
+//         int b1 = INT_MIN, s1 = 0, b2 = INT_MIN, s2 = 0;
+//         for (int p : prices) {
+//             b1 = max(b1, -p);
+//             s1 = max(s1, b1 + p);
+//             b2 = max(b2, s1 - p);
+//             s2 = max(s2, b2 + p);
+//         }
+//         return s2;
+//     }
+// };
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int>>> dp(n+1,vector<vector<int>>(2,vector<int>(3,0)));
-        // for(int i=0;i<n;i++){ // For 2 transactions atmost
-        //     dp[i][0][0] = 0;
-        //     dp[i][1][0] = 0;
-        // }
-        // for(int i=0;i<3;i++){ // For idx == prices.size() then opt->0,1 and limit->0,1,2
-        //     dp[n][0][i] = 0;
-        //     dp[n][1][i] = 0;
-        // }
-        for(int i=n-1;i>=0;i--){
-            for(int j=1;j>=0;j--){
-                for(int k=2;k>0;k--){
-                    if(j == 0)
-                        dp[i][j][k] = max(-prices[i]+dp[i+1][1][k],dp[i+1][0][k]);
-                    else
-                        dp[i][j][k] = max(prices[i]+dp[i+1][0][k-1],dp[i+1][1][k]);
-                }
-            }
+        int b1 = INT_MIN, s1 = 0, b2 = INT_MIN, s2 = 0;
+        for (int p : prices) {
+            b1 = max(b1, -p);
+            s1 = max(s1, b1 + p);
+            b2 = max(b2, s1 - p);
+            s2 = max(s2, b2 + p);
         }
-        return dp[0][0][2];
+        return s2;
     }
 };
