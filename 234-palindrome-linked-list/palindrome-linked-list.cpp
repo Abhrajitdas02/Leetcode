@@ -8,18 +8,39 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+// 
+
 class Solution {
+private:
+ ListNode* reverseList(ListNode* head){
+    ListNode* pre=NULL;
+    ListNode* nex=NULL;
+    while(head!=NULL){
+        nex=head->next;
+        head->next=pre;
+        pre=head;
+        head=nex;
+    }
+    return pre;
+ }
 public:
     bool isPalindrome(ListNode* head) {
-        vector<int> n;
-        while(head){
-         n.push_back(head->val);
-         head=head->next;
+        if(head==NULL || head->next==NULL) return true;
+
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=NULL && fast->next->next!=NULL){
+            fast=fast->next->next;
+            slow=slow->next;
         }
-        vector<int> x;
-        x=n;
-        reverse(n.begin(),n.end());
-        if(n==x) return true;
-        else return false;
+        slow->next=reverseList(slow->next);
+        slow=slow->next;
+
+        while(slow!=NULL){
+            if(head->val!=slow->val) return false;
+        head=head->next;
+        slow=slow->next;
+        }
+        return true;
     }
 };
