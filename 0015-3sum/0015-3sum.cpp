@@ -1,3 +1,25 @@
+// class Solution {
+// public:
+//     vector<vector<int>> threeSum(vector<int>& nums) {
+//         set<vector<int>> st;
+//         int n= nums.size();
+//         for(int i=0;i<n;i++){
+//             set<int> hash;
+//             for(int j=i+1;j<n;j++){
+//                 int num = 0-(nums[i]+nums[j]);
+//                 if(hash.find(num)!=hash.end()){
+//                     vector<int> temp = {nums[i],nums[j],num};
+//                     sort(temp.begin(),temp.end());
+//                     st.insert(temp);
+//                 }
+//                 hash.insert(nums[j]);
+//             }
+//         }
+//         vector<vector<int>> ans(st.begin(),st.end());
+//         return ans;
+//     }
+// };
+
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
