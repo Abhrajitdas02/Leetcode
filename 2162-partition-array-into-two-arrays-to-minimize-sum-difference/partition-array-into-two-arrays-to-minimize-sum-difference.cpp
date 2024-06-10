@@ -1,44 +1,56 @@
 class Solution {
 public:
-int minimumDifference(vector<int>& nums) {
-    int n = nums.size(),  sum = 0;
-    sum = accumulate(nums.begin(), nums.end(),0);  // To find the total sum of the array 
-    
-    int N = n/2; // Divide it into two equals parts as length is even
-    vector<vector<int>> left(N+1), right(N+1); // left array and right array
-    
-	//All possible sum in left and right part (Generating and storing using BIT-Masking)
-    for(int mask = 0; mask<(1<<N); ++mask){  // (1<<n) means 2^n i.e we'll iterate through 0 to 2^n
-        int idx = 0, l_sum = 0, r_sum = 0;
-        for(int i=0; i<N; ++i){
-            if(mask&(1<<i)){  // To check if the bit is set or not 
-                idx++;
-                l_sum += nums[i];
-                r_sum += nums[i+N];
+    int minimumDifference(vector<int>& nums) {
+        int sum = accumulate(nums.begin(), nums.end(), 0);
+        int n = nums.size() / 2;
+        vector<int> l1(n), l2(n);
+        for (int i = 0; i < n; i++) {
+            l1[i] = nums[i];
+        }
+        for (int i = 0; i < n; i++) {
+            l2[i] = nums[i + n];
+        }
+        map<int, vector<int>> sums1, sums2;
+        populateSums(sums1, l1);
+        populateSums(sums2, l2);
+        int mn = 1e9;
+        for (auto &it : sums1) {
+            for (auto &a : it.second) {
+                if (sums2.count(n - it.first) == 0) break;
+                vector<int> &vec = sums2[n - it.first];
+                int l = 0, r = vec.size() - 1;
+                while (l <= r) {
+                    int mid = l + (r - l) / 2;
+                    int s = abs(sum - 2*(a + vec[mid]));
+                    int s_l = mid - 1 >= 0 ? abs(sum - 2*(a + vec[mid - 1])) : 1e9;
+                    int s_r = mid + 1 < vec.size() ? abs(sum - 2*(a + vec[mid + 1])) : 1e9;
+                    if (s_l > s) {
+                        mn = min(mn, s);
+                        l = mid + 1;
+                    } else {
+                        r = mid - 1;
+                    }
+                }
             }
         }
-        left[idx].push_back(l_sum);
-        right[idx].push_back(r_sum);   // storing
+        return mn;
     }
-
-    for(int idx=0; idx<=N; ++idx){
-        sort(right[idx].begin(), right[idx].end());   // as we'll perform binary search on right so we have to sort it first
+private:
+    void populateSums (map<int, vector<int>> &sums, vector<int> &l) {
+        int n = l.size();
+        for (int mask = 0; mask < (1 << n); mask++) {
+            int sum = 0;
+            for (int i = 0; i < n; i++) {
+                if ((mask >> i) & 1) {
+                    sum += l[i];
+                }
+            }
+            sums[__builtin_popcount(mask)].push_back(sum);
+        }
+        for (auto &it: sums) {
+            vector<int> &v = it.second;
+            sort(v.begin(), v.end());
+            v.resize(unique(v.begin(), v.end()) - v.begin());
+        }
     }
-
- int res = min(abs(sum-2*left[N][0]), abs(sum-2*right[N][0]));  // To get the minimum answer from the max sum from both array
-		//iterating over left part
-		for(int idx=1; idx<N; ++idx){ // iterate from 1 so we dont have to include 0 and check for all value except last as we have alr considered it
-			for(auto &a : left[idx]){ // check the sum at each number position
-				int b = (sum - 2*a)/2; // find the value to be minimized 
-				int rightidx = N-idx; // find the number value in right array
-				auto &v = right[rightidx]; // store the vector in v at right number position
-				auto itr = lower_bound(v.begin(), v.end(),b); //binary search over right part
-
-				if(itr!=v.end()) res = min(res, abs(sum-2*(a+(*itr)))); // if found in vector then only update otherwise continue
-
-				}                
-			}
-		return res;
-
-	}
 };
