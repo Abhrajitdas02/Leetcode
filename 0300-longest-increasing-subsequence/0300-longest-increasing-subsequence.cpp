@@ -1,21 +1,19 @@
 class Solution {
 public:
-    int lengthOfLIS(std::vector<int>& nums) {
-        if (nums.empty()) {
-            return 0;
-        }
+    int solve(int ind,int prev,vector<int>& nums,vector<vector<int>>& dp){
+        if(ind==nums.size()) return 0;
+        if(dp[ind][prev+1]!=-1) return dp[ind][prev+1];
 
-        int n = nums.size();
-        std::vector<int> dp(n, 1);
+        int nopick= solve(ind+1,prev,nums,dp);
+        int pick=INT_MIN;
+        if(prev==-1 || nums[ind]>nums[prev])
+        pick=1 + solve(ind+1,ind,nums,dp);
 
-        for (int i = 1; i < n; ++i) {
-            for (int j = 0; j < i; ++j) {
-                if (nums[i] > nums[j]) {
-                    dp[i] = std::max(dp[i], dp[j] + 1);
-                }
-            }
-        }
-
-        return *std::max_element(dp.begin(), dp.end());
+        return dp[ind][prev+1]=max(nopick,pick);
+    }
+    int lengthOfLIS(vector<int>& nums) {
+        int n =nums.size();
+        vector<vector<int>> dp(n,vector<int>(n+1,-1));
+        return solve(0,-1,nums,dp);
     }
 };
