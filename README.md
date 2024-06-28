@@ -72,5 +72,10 @@ Happy coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
