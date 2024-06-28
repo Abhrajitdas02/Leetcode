@@ -62,3 +62,15 @@ If you have any questions, suggestions, or just want to connect, you can reach m
 
 Happy coding! 🚀
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+<!---LeetCode Topics End-->
