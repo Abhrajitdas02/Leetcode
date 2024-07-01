@@ -69,11 +69,13 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+| [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
