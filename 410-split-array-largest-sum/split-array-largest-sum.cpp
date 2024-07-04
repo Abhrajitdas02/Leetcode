@@ -1,37 +1,40 @@
+const auto init = []() {
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    std::ios_base::sync_with_stdio(false);
+    return nullptr;
+}();
+
 class Solution {
 public:
-    bool solve(vector<int>& nums, int k,int limit){
-        int t=1;
-        int sum=limit;
-        for(auto i:nums){
-            if(sum>=i) sum-=i;
-            else{
-                sum=limit;
-                t++;
-                if(sum<i) return 0;
-                sum-=i;
+    int countPartitions(vector<int>& a, int maxSum) {
+        int n = a.size();
+        int partitions = 1;
+        long long subarraySum = 0;
+        for (int i = 0; i < n; i++) {
+            if (subarraySum + a[i] <= maxSum) {
+                subarraySum += a[i];
+            } else {
+                partitions++;
+                subarraySum = a[i];
             }
-            if(t>k) return 0;
-            
         }
-        
-        return 1;
-
+        return partitions;
     }
-    int splitArray(vector<int>& nums, int k) {
-        int n=nums.size();
-        int i=0,j=nums.size()-1;
-        int ans=INT_MAX;
-        for(int it=0;it<n;++it) i=max(i,nums[it]), j+=nums[it];
-        while(i<=j){
-            int m=(i+j)/2;
-            if(solve(nums,k,m)){
-                ans=min(ans,m);
-                j=m-1;
 
+    int splitArray(vector<int>& nums, int k) {
+        int low = *max_element(nums.begin(), nums.end());
+        int high = accumulate(nums.begin(), nums.end(), 0);
+
+        while (low <= high) {
+            int mid = (low + high) / 2;
+            int partitions = countPartitions(nums, mid);
+            if (partitions > k) {
+                low = mid + 1;
+            } else {
+                high = mid - 1;
             }
-            else i=m+1;
         }
-        return ans;
+        return low;
     }
 };
