@@ -68,6 +68,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -78,6 +79,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -100,4 +102,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
