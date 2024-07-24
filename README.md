@@ -122,4 +122,8 @@ Happy coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhrajitdas02/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
