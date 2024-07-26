@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string">2346. Largest 3-Same-Digit Number in String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>num</code> representing a large integer. An integer is <strong>good</strong> if it meets the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/largest-3-same-digit-number-in-string">Largest 3-Same-Digit Number in String</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a string <code>num</code> representing a large integer. An integer is <strong>good</strong> if it meets the following conditions:</p>
 
 <ul>
 	<li>It is a <strong>substring</strong> of <code>num</code> with length <code>3</code>.</li>
