@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array">2231. Find First Palindromic String in the Array</a></h2><h3>Easy</h3><hr><p>Given an array of strings <code>words</code>, return <em>the first <strong>palindromic</strong> string in the array</em>. If there is no such string, return <em>an <strong>empty string</strong> </em><code>&quot;&quot;</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-first-palindromic-string-in-the-array">Find First Palindromic String in the Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given an array of strings <code>words</code>, return <em>the first <strong>palindromic</strong> string in the array</em>. If there is no such string, return <em>an <strong>empty string</strong> </em><code>&quot;&quot;</code>.</p>
 
 <p>A string is <strong>palindromic</strong> if it reads the same forward and backward.</p>
 
