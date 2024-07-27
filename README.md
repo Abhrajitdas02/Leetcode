@@ -120,6 +120,7 @@ Happy coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Happy coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
