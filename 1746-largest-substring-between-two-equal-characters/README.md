@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters">1746. Largest Substring Between Two Equal Characters</a></h2><h3>Easy</h3><hr><p>Given a string <code>s</code>, return <em>the length of the longest substring between two equal characters, excluding the two characters.</em> If there is no such substring return <code>-1</code>.</p>
+<h2><a href="https://leetcode.com/problems/largest-substring-between-two-equal-characters">Largest Substring Between Two Equal Characters</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>Given a string <code>s</code>, return <em>the length of the longest substring between two equal characters, excluding the two characters.</em> If there is no such substring return <code>-1</code>.</p>
 
 <p>A <strong>substring</strong> is a contiguous sequence of characters within a string.</p>
 
