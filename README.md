@@ -149,6 +149,7 @@ Happy coding! 🚀
 | [0182-duplicate-emails](https://github.com/Abhrajitdas02/Leetcode/tree/master/0182-duplicate-emails) |
 | [0595-big-countries](https://github.com/Abhrajitdas02/Leetcode/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhrajitdas02/Leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhrajitdas02/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Two Pointers
