@@ -83,6 +83,7 @@ Happy coding! 🚀
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
 | [0890-lemonade-change](https://github.com/Abhrajitdas02/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -137,6 +138,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
