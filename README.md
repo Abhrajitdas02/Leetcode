@@ -81,6 +81,7 @@ Happy coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
+| [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0890-lemonade-change](https://github.com/Abhrajitdas02/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
@@ -118,6 +119,7 @@ Happy coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
@@ -235,6 +238,7 @@ Happy coding! 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
