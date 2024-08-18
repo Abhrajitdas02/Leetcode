@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet">2304. Cells in a Range on an Excel Sheet</a></h2><h3>Easy</h3><hr><p>A cell <code>(r, c)</code> of an excel sheet is represented as a string <code>&quot;&lt;col&gt;&lt;row&gt;&quot;</code> where:</p>
+<h2><a href="https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet">Cells in a Range on an Excel Sheet</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>A cell <code>(r, c)</code> of an excel sheet is represented as a string <code>&quot;&lt;col&gt;&lt;row&gt;&quot;</code> where:</p>
 
 <ul>
 	<li><code>&lt;col&gt;</code> denotes the column number <code>c</code> of the cell. It is represented by <strong>alphabetical letters</strong>.
