@@ -112,6 +112,7 @@ Happy coding! 🚀
 | [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -176,6 +177,7 @@ Happy coding! 🚀
 | [0812-rotate-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
