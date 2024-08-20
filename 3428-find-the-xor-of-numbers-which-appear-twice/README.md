@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice">Find the XOR of Numbers Which Appear Twice</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an array <code>nums</code>, where each number in the array appears <strong>either</strong><em> </em>once<em> </em>or<em> </em>twice.</p>
+<h2><a href="https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice">3428. Find the XOR of Numbers Which Appear Twice</a></h2><h3>Easy</h3><hr><p>You are given an array <code>nums</code>, where each number in the array appears <strong>either</strong><em> </em>once<em> </em>or<em> </em>twice.</p>
 
 <p>Return the bitwise<em> </em><code>XOR</code> of all the numbers that appear twice in the array, or 0 if no number appears twice.</p>
 
