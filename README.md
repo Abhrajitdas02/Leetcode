@@ -88,6 +88,7 @@ Happy coding! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhrajitdas02/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
