@@ -178,6 +178,7 @@ Happy coding! 🚀
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/2235-capitalize-the-title) |
@@ -209,6 +210,7 @@ Happy coding! 🚀
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
+| [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
