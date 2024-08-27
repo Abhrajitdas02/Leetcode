@@ -266,6 +266,7 @@ Happy coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -284,6 +285,7 @@ Happy coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -302,4 +304,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
