@@ -266,6 +266,7 @@ Happy coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -290,6 +291,7 @@ Happy coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -314,6 +316,7 @@ Happy coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -322,6 +325,7 @@ Happy coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
