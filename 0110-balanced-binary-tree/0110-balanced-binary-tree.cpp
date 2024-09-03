@@ -10,22 +10,19 @@
  * };
  */
 class Solution {
-    private:
-    int height(TreeNode* root){
-        if(!root) return 0;
-        int right=height(root->left);
-        int left=height(root->right);
-        return 1+ max(left,right);
-    }
 public:
     bool isBalanced(TreeNode* root) {
-        if(!root) return true;
-        int left=height(root->left);
-        int right=height(root->right);
-        if(abs(left-right)>1) return false;
-        bool leftr=isBalanced(root->left);
-        bool rightr=isBalanced(root->right);
-        if(!leftr || !rightr) return false;
-        return true;
-    }
-};
+        return (Height(root)!=-1);
+     }   
+     int Height(TreeNode *root){
+        if(root == NULL) return 0;
+
+        int left= Height(root->left);
+        if(left == -1) return -1;
+        int right=Height(root->right);
+        if(right == -1) return -1;
+
+        if(abs(left-right)>1) return -1;
+        return max(left,right)+1;
+     }
+}; 
