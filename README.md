@@ -93,6 +93,7 @@ Happy coding! 🚀
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhrajitdas02/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Abhrajitdas02/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -140,6 +141,7 @@ Happy coding! 🚀
 | [0605-can-place-flowers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/Abhrajitdas02/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Abhrajitdas02/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -314,6 +316,7 @@ Happy coding! 🚀
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2094-remove-stones-to-minimize-the-total](https://github.com/Abhrajitdas02/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 ## Bucket Sort
 |  |
 | ------- |
