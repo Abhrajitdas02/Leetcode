@@ -164,6 +164,7 @@ Happy coding! 🚀
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -238,6 +239,7 @@ Happy coding! 🚀
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Happy coding! 🚀
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +291,7 @@ Happy coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Abhrajitdas02/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
@@ -335,6 +339,7 @@ Happy coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -344,6 +349,7 @@ Happy coding! 🚀
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
