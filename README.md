@@ -76,6 +76,7 @@ Happy coding! 🚀
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -159,6 +160,7 @@ Happy coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhrajitdas02/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -235,6 +237,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
@@ -249,12 +252,14 @@ Happy coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
