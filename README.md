@@ -79,6 +79,7 @@ Happy coding! 🚀
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -167,6 +168,7 @@ Happy coding! 🚀
 | [0013-roman-to-integer](https://github.com/Abhrajitdas02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
@@ -212,6 +214,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
