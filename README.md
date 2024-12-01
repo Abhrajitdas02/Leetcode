@@ -132,6 +132,7 @@ Happy coding! 🚀
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
@@ -190,6 +191,7 @@ Happy coding! 🚀
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0812-rotate-string) |
@@ -233,6 +235,7 @@ Happy coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
