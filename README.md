@@ -93,6 +93,7 @@ Happy coding! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhrajitdas02/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -111,6 +112,7 @@ Happy coding! 🚀
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Math
@@ -171,6 +173,7 @@ Happy coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -231,6 +234,7 @@ Happy coding! 🚀
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -250,6 +254,7 @@ Happy coding! 🚀
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Queue
 |  |
 | ------- |
