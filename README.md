@@ -100,6 +100,7 @@ Happy coding! 🚀
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abhrajitdas02/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
