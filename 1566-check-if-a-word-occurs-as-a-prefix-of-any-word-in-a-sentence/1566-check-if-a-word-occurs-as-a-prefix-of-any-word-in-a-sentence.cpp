@@ -5,7 +5,7 @@ public:
         string word;
         int index=1;
         while(stream >> word){
-            if(word.find(searchWord) ==0){
+            if(word.find(searchWord) == 0){
                 return index;
             }
             index++;
