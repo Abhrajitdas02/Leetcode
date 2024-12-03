@@ -102,6 +102,7 @@ Happy coding! 🚀
 | [2094-remove-stones-to-minimize-the-total](https://github.com/Abhrajitdas02/Leetcode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -213,6 +214,7 @@ Happy coding! 🚀
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Abhrajitdas02/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -253,6 +255,7 @@ Happy coding! 🚀
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhrajitdas02/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -393,6 +396,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Quickselect
 |  |
 | ------- |
