@@ -4,7 +4,7 @@ public:
         string ans="";
         int i=0,j=0;
         while(i<s.length()){
-            if(j<spaces.size() && i==spaces[j] ){
+            if(j<spaces.size() && i==spaces[j]){
                 ans+=' ';
                 j++;
             }
