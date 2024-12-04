@@ -175,6 +175,7 @@ Happy coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Abhrajitdas02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
@@ -198,6 +199,7 @@ Happy coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Abhrajitdas02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
@@ -282,6 +284,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Abhrajitdas02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Divide and Conquer
