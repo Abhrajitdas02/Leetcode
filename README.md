@@ -122,6 +122,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Abhrajitdas02/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -409,5 +410,10 @@ Happy coding! 🚀
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Abhrajitdas02/Leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
