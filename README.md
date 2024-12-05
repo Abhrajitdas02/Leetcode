@@ -220,6 +220,7 @@ Happy coding! 🚀
 | [2235-capitalize-the-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Abhrajitdas02/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,6 +259,7 @@ Happy coding! 🚀
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
