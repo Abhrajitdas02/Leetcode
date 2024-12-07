@@ -88,6 +88,7 @@ Happy coding! 🚀
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/Abhrajitdas02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0605-can-place-flowers) |
