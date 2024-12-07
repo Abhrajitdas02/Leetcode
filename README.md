@@ -106,6 +106,7 @@ Happy coding! 🚀
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2386-min-max-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/2386-min-max-game) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -415,6 +416,7 @@ Happy coding! 🚀
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2386-min-max-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/2386-min-max-game) |
 ## Quickselect
 |  |
 | ------- |
