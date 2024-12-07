@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/min-max-game">Min Max Game</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> whose length is a power of <code>2</code>.</p>
+<h2><a href="https://leetcode.com/problems/min-max-game">2386. Min Max Game</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> whose length is a power of <code>2</code>.</p>
 
 <p>Apply the following algorithm on <code>nums</code>:</p>
 
