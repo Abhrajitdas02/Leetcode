@@ -69,6 +69,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/0055-jump-game) |
@@ -258,6 +259,7 @@ Happy coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhrajitdas02/Leetcode/tree/master/0141-linked-list-cycle) |
