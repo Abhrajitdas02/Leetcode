@@ -68,6 +68,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0045-jump-game-ii) |
@@ -259,6 +260,7 @@ Happy coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
@@ -285,6 +287,7 @@ Happy coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
