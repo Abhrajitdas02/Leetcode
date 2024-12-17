@@ -79,6 +79,7 @@ Happy coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhrajitdas02/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
@@ -283,6 +284,7 @@ Happy coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
