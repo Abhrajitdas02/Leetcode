@@ -1,19 +1,18 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-     vector<int> v1,v2,ans;
-     int n = nums.size();
-     for(int i=0;i<n;i++){
-         if(nums[i]>0) v1.push_back(nums[i]);
-         else v2.push_back(nums[i]);
-     }
-     int a=0,b=0;
-     while(a<n/2 && b<n/2){
-         ans.push_back(v1[a]);
-         a++;
-         ans.push_back(v2[b]);
-         b++;
-     }
-     return ans;   
+        int n=nums.size();
+        vector<int> pos;
+        vector<int> neg;
+        vector<int> ans(n);
+        for(int i=0;i<n;i++){
+            if(nums[i]>0) pos.push_back(nums[i]);
+            if(nums[i]<0) neg.push_back(nums[i]); 
+        }
+        for(int i=0;i<n/2;i++){
+            ans[2*i]=pos[i];
+            ans[2*i+1]=neg[i];
+        }
+        return ans;
     }
 };
