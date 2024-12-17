@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-the-array">3324. Split the Array</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code> of <strong>even</strong> length. You have to split the array into two parts <code>nums1</code> and <code>nums2</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/split-the-array">Split the Array</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>You are given an integer array <code>nums</code> of <strong>even</strong> length. You have to split the array into two parts <code>nums1</code> and <code>nums2</code> such that:</p>
 
 <ul>
 	<li><code>nums1.length == nums2.length == nums.length / 2</code>.</li>
