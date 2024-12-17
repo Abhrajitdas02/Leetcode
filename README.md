@@ -110,6 +110,7 @@ Happy coding! 🚀
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2386-min-max-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/2386-min-max-game) |
+| [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
@@ -199,6 +200,7 @@ Happy coding! 🚀
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
@@ -310,6 +312,7 @@ Happy coding! 🚀
 | [0383-ransom-note](https://github.com/Abhrajitdas02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
