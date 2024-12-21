@@ -163,6 +163,7 @@ Happy coding! 🚀
 | [0410-split-array-largest-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Happy coding! 🚀
 | [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -290,6 +292,7 @@ Happy coding! 🚀
 | [0283-move-zeroes](https://github.com/Abhrajitdas02/Leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
+| [0647-palindromic-substrings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhrajitdas02/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
