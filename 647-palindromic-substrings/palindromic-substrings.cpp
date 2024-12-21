@@ -1,19 +1,21 @@
 class Solution {
 public:
     int countSubstrings(string s) {
-        vector<vector<int>> tab(s.size(), vector<int>(s.size()));
+        int n = s.length(), ans = 0;
+        for (int i = 0; i < n; ++i) {
+            int even = palindromeCount(s, i, i + 1);
+            int odd = palindromeCount(s, i, i);
+            ans += even + odd;
+        }
+        return ans;
+    }
+
+    int palindromeCount(const string& s, int left, int right) {
         int count = 0;
-        for(int i = s.size() - 1; i >= 0; --i) {
-            for(int j = i; j < s.size(); ++j) {
-                if (i == j) {
-                    tab[i][j] = 1;
-                } else if (i + 1 == j) {
-                    tab[i][j] = s[i] == s[j] ? 1 : 0;
-                } else {
-                    tab[i][j] = s[i] == s[j] ? tab[i+1][j-1] : 0;
-                }
-                count += tab[i][j];
-            }
+        while (left >= 0 && right < s.length() && s[left] == s[right]) {
+            --left;
+            ++right;
+            ++count;
         }
         return count;
     }
