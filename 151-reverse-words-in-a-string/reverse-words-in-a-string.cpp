@@ -1,19 +1,21 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        istringstream stream(s);
-        string word;
-        vector<string> words;
+        reverse(s.begin(),s.end());
+        int n=s.length();
+        string word="";
         string ans="";
-        while(stream >> word){
-            words.push_back(word);
+        for(int i=0;i<n;i++){
+            while(i<n && s[i]!=' '){
+                word+=s[i];
+                i++;
+            }
+            reverse(word.begin(),word.end());
+            if(word.length()>0){
+                ans+=' '+word;
+                word="";
+            }
         }
-        for(int i=words.size()-1;i>=0;i--){
-            if(i==0) 
-            ans+=words[i];
-            else
-            ans+=words[i]+' ';
-        }
-        return ans;
+        return ans.substr(1);
     }
 };
