@@ -1,45 +1,30 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int n=s.size();
-        int i=0;
-        long long num=0;
-        int flag=1;
-        while(i<n){
-            while(s[i]==' ' && i<n) i++;
-            if(i==n) break;
-            if(isdigit(s[i])){
-                while(isdigit(s[i])){
-                  num=num*10 + (s[i]-'0');
-                  if(num>=INT_MAX) return INT_MAX;
-                    i++;
-                }
-                break;
-            }
-            else if(s[i]=='+' ){
-                flag=1;
-                i++;
-                while(isdigit(s[i])){
-                    num=num*10 + (s[i]-'0');
-                    if(num>=INT_MAX) return INT_MAX;
-                    i++;
-                }
-                break;
-            }
-            else if(s[i]=='-'){
-                flag=-1;
-                i++;
-                while(isdigit(s[i])){
-                     num=num*10 + (s[i]-'0');
-                     if(flag*num<=INT_MIN) return INT_MIN;
-                    i++;
-                }
-                break;
-            }
-            else  break;
+       int j=0,mul=1;
+       while(s[j]==' ')j++;
+       if(s[j]=='-'){
+        mul=-1;
+        j++;}
+        else if(s[j]=='+'){
+            mul=1;
+            j++;
         }
-        
-        num=num*flag;
-        return num;
+        int min=INT_MIN,max=INT_MAX;
+       long result=0;
+       int n=s.length();
+       for(int i=j;i<n;i++){
+        int x=s[i]-'0';
+        if(x>=0 && x<=9){
+            if(mul==1 && (result*10+x)>max)return max;
+            if(mul==-1 && (result*10+x)*-1<min)return min;
+            result=result*10+x;
+        } else{
+            break;
+        }
+        }
+        result=result*mul;
+        int res=(int)result;
+       return res; 
     }
 };
