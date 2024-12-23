@@ -1,39 +1,18 @@
-// class Solution {
-// public:
-//     int lengthOfLongestSubstring(string s) {
-//         int l = s.length();
-//         int longest=0;
-//         string st="";
-//         for(int i=0;i<l;i++){
-//             st+=s[i];
-//             for(int j=i;j<l-1;j++){
-//              if(s[j]!=s[j+1]){
-//                 st+=s[j];
-//              }
-//             }
-//             longest= max(longest,(int)st.length());
-//         }
-//         return longest;
-//     }
-// };
-
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        int left = 0;
-        int maxLength = 0;
-        unordered_set<char> charSet;
-
-        for (int right = 0; right < s.length(); right++) {
-            while (charSet.find(s[right]) != charSet.end()) {
-                charSet.erase(s[left]);
-                left++;
+        int n=s.length();
+        unordered_set<char> st;
+        int left=0;
+        int maxLen=0;
+        for(int right=0;right<n;right++){
+            while(st.find(s[right])!=st.end()){
+            st.erase(s[left]);
+            left++;
             }
-
-            charSet.insert(s[right]);
-            maxLength = max(maxLength, right - left + 1);
+        st.insert(s[right]);
+        maxLen=max(maxLen,right-left+1);
         }
-
-        return maxLength;        
+        return maxLen;
     }
 };
