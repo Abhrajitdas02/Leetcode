@@ -110,6 +110,7 @@ Happy coding! 🚀
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhrajitdas02/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -148,6 +149,7 @@ Happy coding! 🚀
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -187,6 +189,7 @@ Happy coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/Abhrajitdas02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +222,7 @@ Happy coding! 🚀
 | [0966-binary-subarrays-with-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
@@ -271,6 +275,7 @@ Happy coding! 🚀
 | [0424-longest-repeating-character-replacement](https://github.com/Abhrajitdas02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Database
 |  |
 | ------- |
