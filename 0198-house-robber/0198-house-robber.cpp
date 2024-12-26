@@ -11,14 +11,16 @@ public:
     int rob(vector<int>& nums) {
         int n=nums.size();
         if(n==1)return nums[0];
-        vector<int> dp(n,-1);
-        dp[0]=nums[0];
-        int pick;
+        int prev=nums[0];
+        int prev2=0;
+        int pick,cur;
         for(int i=1;i<n;i++){
-            pick=nums[i]; if(i>1)pick+=dp[i-2];
-            int nopick=0+dp[i-1];
-            dp[i]=max(pick,nopick);
+            pick=nums[i]; if(i>1)pick+=prev2;
+            int nopick=0+prev;
+            cur=max(pick,nopick);
+            prev2=prev;
+            prev=cur;
         }
-        return dp[n-1];
+        return prev;
     }
 };
