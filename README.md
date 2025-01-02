@@ -315,6 +315,7 @@ Happy coding! 🚀
 | [1801-average-time-of-process-per-machine](https://github.com/Abhrajitdas02/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhrajitdas02/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Abhrajitdas02/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Two Pointers
 |  |
 | ------- |
