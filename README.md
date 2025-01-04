@@ -385,6 +385,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhrajitdas02/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -460,6 +461,7 @@ Happy coding! 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Abhrajitdas02/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -537,4 +539,5 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Abhrajitdas02/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
