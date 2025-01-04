@@ -1,26 +1,23 @@
 class Solution {
 public:
     int findNumberOfLIS(vector<int>& nums) {
-        int n = nums.size();
-        vector<pair<int, int>>LIS(n, {1, 1}); 
-        int maxlen = 0;
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < i; j++) {
-                if (nums[i] > nums[j]) {
-                    if (LIS[i].second == 1 + LIS[j].second) {
-                        LIS[i].first += LIS[j].first;
-                    } else if (LIS[i].second < 1 + LIS[j].second) {
-                        LIS[i].first = LIS[j].first;
-                        LIS[i].second = 1 + LIS[j].second;
-                    }
+        int n=nums.size();
+        vector<int> dp(n,1),cnt(n,1);
+        int maxi=0;
+        for(int i=0;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[i]>nums[j] && dp[i]<dp[j]+1){
+                    dp[i]=1+dp[j];
+                    cnt[i]=cnt[j];
                 }
+                else if(nums[i]>nums[j] && dp[i]==1+dp[j])
+                cnt[i]+=cnt[j];
             }
-            maxlen = max(maxlen, LIS[i].second);
+            maxi=max(maxi,dp[i]);
         }
-        int ans = 0;
-        for (int i = 0; i < n; i++) {
-            if (LIS[i].second == maxlen)
-                ans += LIS[i].first;
+        int ans=0;
+        for(int i=0;i<n;i++){
+            if(dp[i]==maxi) ans+=cnt[i];
         }
         return ans;
     }
