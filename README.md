@@ -105,6 +105,7 @@ Happy coding! 🚀
 | [0455-assign-cookies](https://github.com/Abhrajitdas02/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhrajitdas02/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhrajitdas02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -241,6 +242,7 @@ Happy coding! 🚀
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhrajitdas02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhrajitdas02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -463,6 +465,7 @@ Happy coding! 🚀
 | [0155-min-stack](https://github.com/Abhrajitdas02/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhrajitdas02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -542,4 +545,8 @@ Happy coding! 🚀
 | [0155-min-stack](https://github.com/Abhrajitdas02/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhrajitdas02/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
