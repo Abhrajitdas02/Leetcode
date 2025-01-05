@@ -71,6 +71,7 @@ Happy coding! 🚀
 | [0015-3sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Abhrajitdas02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/0055-jump-game) |
@@ -166,6 +167,7 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhrajitdas02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/0055-jump-game) |
@@ -342,6 +344,7 @@ Happy coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhrajitdas02/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Abhrajitdas02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhrajitdas02/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -461,6 +464,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Abhrajitdas02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Abhrajitdas02/Leetcode/tree/master/0155-min-stack) |
@@ -550,6 +554,7 @@ Happy coding! 🚀
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Abhrajitdas02/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
