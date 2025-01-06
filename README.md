@@ -113,6 +113,7 @@ Happy coding! 🚀
 | [0560-subarray-sum-equals-k](https://github.com/Abhrajitdas02/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0735-asteroid-collision](https://github.com/Abhrajitdas02/Leetcode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/Abhrajitdas02/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhrajitdas02/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -474,6 +475,7 @@ Happy coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/Abhrajitdas02/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Abhrajitdas02/Leetcode/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhrajitdas02/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -526,6 +528,7 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Abhrajitdas02/Leetcode/tree/master/0735-asteroid-collision) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2386-min-max-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/2386-min-max-game) |
