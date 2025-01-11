@@ -14,7 +14,7 @@ public:
         while(head && head->val==val){
             ListNode* temp=head;
             head=head->next;
-            delete temp;
+            delete(temp);
         }
         ListNode* curr=head;
         ListNode* prev=head;
@@ -23,7 +23,7 @@ public:
                 ListNode* x=curr;
                 prev->next=curr->next;
                 curr=curr->next;
-                delete x;
+                delete(x);
             }
             else{
                 prev=curr;
