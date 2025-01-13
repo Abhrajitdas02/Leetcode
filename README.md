@@ -354,6 +354,7 @@ Happy coding! 🚀
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Abhrajitdas02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -383,6 +384,7 @@ Happy coding! 🚀
 | [0015-3sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Abhrajitdas02/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Abhrajitdas02/Leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0229-majority-element-ii) |
@@ -415,6 +417,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhrajitdas02/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhrajitdas02/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
@@ -431,6 +434,7 @@ Happy coding! 🚀
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -550,6 +554,7 @@ Happy coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Abhrajitdas02/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0234-palindrome-linked-list) |
