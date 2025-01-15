@@ -278,6 +278,7 @@ Happy coding! 🚀
 | [0205-isomorphic-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhrajitdas02/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abhrajitdas02/Leetcode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Abhrajitdas02/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
@@ -461,6 +462,7 @@ Happy coding! 🚀
 | [0100-same-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Abhrajitdas02/Leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Abhrajitdas02/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
@@ -588,4 +590,8 @@ Happy coding! 🚀
 | [0496-next-greater-element-i](https://github.com/Abhrajitdas02/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhrajitdas02/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhrajitdas02/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
