@@ -260,6 +260,7 @@ Happy coding! 🚀
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhrajitdas02/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## String
@@ -301,6 +302,7 @@ Happy coding! 🚀
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/Abhrajitdas02/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Abhrajitdas02/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
