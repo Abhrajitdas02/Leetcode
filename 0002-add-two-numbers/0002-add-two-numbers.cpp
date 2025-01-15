@@ -11,13 +11,11 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        ListNode* dummy=new ListNode();
+        ListNode* dummy= new ListNode();
         ListNode* res=dummy;
         int total=0,carry=0;
-
         while(l1||l2||carry){
             total=carry;
-
             if(l1){
                 total+=l1->val;
                 l1=l1->next;
