@@ -163,6 +163,7 @@ Happy coding! 🚀
 | [0189-rotate-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Abhrajitdas02/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0415-add-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -285,6 +286,7 @@ Happy coding! 🚀
 | [0389-find-the-difference](https://github.com/Abhrajitdas02/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Abhrajitdas02/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhrajitdas02/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhrajitdas02/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -545,6 +547,7 @@ Happy coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Abhrajitdas02/Leetcode/tree/master/0735-asteroid-collision) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhrajitdas02/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
