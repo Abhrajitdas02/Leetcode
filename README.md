@@ -313,6 +313,7 @@ Happy coding! 🚀
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/Abhrajitdas02/Leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +406,7 @@ Happy coding! 🚀
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Abhrajitdas02/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2887-sort-vowels-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Queue
 |  |
 | ------- |
