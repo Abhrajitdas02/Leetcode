@@ -292,6 +292,7 @@ Happy coding! 🚀
 | [0516-longest-palindromic-subsequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Abhrajitdas02/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/Abhrajitdas02/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhrajitdas02/Leetcode/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -510,6 +511,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Abhrajitdas02/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhrajitdas02/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Heap (Priority Queue)
