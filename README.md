@@ -456,6 +456,7 @@ Happy coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhrajitdas02/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -471,6 +472,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Abhrajitdas02/Leetcode/tree/master/0301-remove-invalid-parentheses) |
@@ -534,6 +536,7 @@ Happy coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
@@ -552,6 +555,7 @@ Happy coding! 🚀
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhrajitdas02/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhrajitdas02/Leetcode/tree/master/0110-balanced-binary-tree) |
