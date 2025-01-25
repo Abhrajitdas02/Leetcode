@@ -134,6 +134,7 @@ Happy coding! 🚀
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2386-min-max-game](https://github.com/Abhrajitdas02/Leetcode/tree/master/2386-min-max-game) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3324-split-the-array](https://github.com/Abhrajitdas02/Leetcode/tree/master/3324-split-the-array) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhrajitdas02/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
@@ -411,6 +412,7 @@ Happy coding! 🚀
 | [1129-longest-string-chain](https://github.com/Abhrajitdas02/Leetcode/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2887-sort-vowels-in-a-string](https://github.com/Abhrajitdas02/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Queue
 |  |
 | ------- |
@@ -489,6 +491,7 @@ Happy coding! 🚀
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhrajitdas02/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/Abhrajitdas02/Leetcode/tree/master/0547-number-of-provinces) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
