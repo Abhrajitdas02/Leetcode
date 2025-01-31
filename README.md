@@ -158,6 +158,7 @@ Happy coding! 🚀
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Abhrajitdas02/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Abhrajitdas02/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Abhrajitdas02/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhrajitdas02/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abhrajitdas02/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -611,6 +612,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhrajitdas02/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Abhrajitdas02/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Abhrajitdas02/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhrajitdas02/Leetcode/tree/master/0234-palindrome-linked-list) |
