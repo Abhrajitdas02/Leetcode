@@ -9,12 +9,12 @@ public:
             if(nums[low]<=nums[high]){
                 ans=min(ans,nums[low]);
                 break;
-                 }
-            if(nums[low]<=nums[mid]){
+            }
+            else if(nums[low]<=nums[mid]){
                 ans=min(ans,nums[low]);
                 low=mid+1;
             }
-            else{
+            else if(nums[mid]<=nums[high]){
                 ans=min(ans,nums[mid]);
                 high=mid-1;
             }
