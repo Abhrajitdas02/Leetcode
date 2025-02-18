@@ -8,11 +8,11 @@ public:
         for(int i=0;i<n;i++){
             pre*=nums[i];
             suff*=nums[n-1-i];
-            if(pre>maxi) maxi=pre;
-            if(suff>maxi)maxi=suff;
+            if(pre>maxi)maxi=pre;
+            if(suff>maxi) maxi=suff;
             if(pre==0) pre=1;
-            if(suff==0)suff=1;
+            if(suff==0) suff=1;
         }
-    return maxi;
+        return maxi;
     }
 };
