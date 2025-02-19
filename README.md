@@ -127,6 +127,7 @@ Happy coding! 🚀
 | [1129-longest-string-chain](https://github.com/Abhrajitdas02/Leetcode/tree/master/1129-longest-string-chain) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhrajitdas02/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhrajitdas02/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhrajitdas02/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Abhrajitdas02/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -154,6 +155,7 @@ Happy coding! 🚀
 | [0907-koko-eating-bananas](https://github.com/Abhrajitdas02/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhrajitdas02/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Abhrajitdas02/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhrajitdas02/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhrajitdas02/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Abhrajitdas02/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Abhrajitdas02/Leetcode/tree/master/1646-kth-missing-positive-number) |
